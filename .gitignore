@@ -1,0 +1,14 @@
+Scratch
+Old
+*.csv
+Cards
+Sentences.py
+__pycache__
+py3
+venv
+Words.py
+*.pyc
+Reading
+lingq_data.py
+Lingq.py
+
